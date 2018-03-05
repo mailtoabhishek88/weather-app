@@ -4,12 +4,12 @@
   "version": "0.1.6",
   "license": "MIT",
   "author": {
-    "name": "Matthias Lienau",
-    "email": "matthias@mlienau.de"
+    "name": "Abhishek Gupta",
+    "email": "mailtoabhishek88@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/atufkas/angular-openweather-app.git"
+    "url": "https://github.com/mailtoabhishek88/weather-app.git"
   },
   "scripts": {
     "start": "node scripts/web-server.js",
